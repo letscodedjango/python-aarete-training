@@ -1,0 +1,92 @@
+body{
+    font-family: 'Dosis', sans-serif;
+    align-content: center;
+    text-align: center;
+}
+
+h1 span {
+    border-bottom: 5px solid  rgb(31, 162, 202);
+}
+
+
+h3 span {
+    border-bottom: 5px solid rgb(209, 165, 54);
+}
+
+code {
+    /* color: rgb(21, 194, 36);
+    font-size: 1.2em; */
+    padding: 0 .25rem;
+    margin: 0 .0625rem;
+    border-radius: .125rem;
+    color: #b61d5d;
+    background-color: #e0d1e0;
+    font-family: Monaco,Menlo,Ubuntu Mono,Droid Sans Mono,Consolas,monospace;
+    font-size: .9rem;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.code__2rdF32qjRVp7mMVBHuPwDS {
+    padding: 0 .25rem;
+    margin: 0 .0625rem;
+    border-radius: .125rem;
+    color: #b61d5d;
+    background-color: #e0d1e0;
+    font-family: Monaco,Menlo,Ubuntu Mono,Droid Sans Mono,Consolas,monospace;
+    font-size: .9rem;
+}
+
+.code_img {
+    border-radius: 4px;
+}
+
+.author-details {
+    list-style: none;
+    align-items: inline;
+}
+
+
+.author-details  span {
+    list-style: none;
+    align-items: inline;
+    border-bottom: 2px solid #b61d5d;
+}
+
+.cd-top--is-visible { 
+    visibility: visible;
+    opacity: 1;
+  }
+  
+.cd-top--fade-out { 
+    opacity: .5;
+  }
+
+.js-cd-top {
+    background-color: chocolate;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.imp-notes {
+    font-weight: 500;
+    color: #1b802b;
+}
+
+.sub-list li {
+    background-color: rgb(200, 233, 190);
+    padding: 5px;
+    border-radius: 4px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: #0d3513;
+    font-weight: 600;
+}
