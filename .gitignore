@@ -45,6 +45,7 @@ htmlcov/
 .coverage.*
 .cache
 nosetests.xml
+settings.json
 coverage.xml
 *.cover
 *.py,cover
@@ -109,6 +110,7 @@ personal/
 venv/
 ENV/
 env.bak/
+.vscode/
 venv.bak/
 
 # Spyder project settings
