@@ -90,3 +90,15 @@ ul li {
     color: #0d3513;
     font-weight: 600;
 }
+
+
+.title_img  {
+    border:2px solid #fff;
+    -moz-box-shadow: inset 10px 10px 50px #fff;
+    -webkit-box-shadow: inset 10px 10px 50px rgb(175, 109, 206);
+    box-shadow: inset 10px 10px 50px rgb(219, 175, 175);
+    border-radius: 5px;
+    /* opacity: 1.2;
+    filter: alpha(opacity=30); For IE8 and earlier */
+  }
+

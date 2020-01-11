@@ -13,6 +13,7 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+static/
 .eggs/
 lib/
 lib64/
@@ -130,3 +131,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.html
+
